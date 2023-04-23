@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Checkout = () => {
+    console.log(location);
     return (
         <div>
             <h2>Checkout your order!!! page </h2>
